@@ -1,0 +1,4 @@
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+ens33            UP             192.168.88.128/24 fe80::df4f:fc5a:964b:ab21/64 
+virbr0           DOWN           192.168.122.1/24 
+virbr0-nic       DOWN           

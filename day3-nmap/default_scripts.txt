@@ -1,0 +1,12 @@
+# Nmap 6.40 scan initiated Wed Oct 15 09:41:42 2025 as: nmap -sC -sV -oN day3-nmap/default_scripts.txt 192.168.1.1
+Nmap scan report for 192.168.1.1
+Host is up (0.00079s latency).
+Not shown: 998 filtered ports
+PORT     STATE SERVICE    VERSION
+80/tcp   open  tcpwrapped
+|_http-methods: No Allow or Public header in OPTIONS response (status code 405)
+|_http-title: TL-WR886N
+1900/tcp open  tcpwrapped
+
+Service detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+# Nmap done at Wed Oct 15 09:43:41 2025 -- 1 IP address (1 host up) scanned in 118.31 seconds

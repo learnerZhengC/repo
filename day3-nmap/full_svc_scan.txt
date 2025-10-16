@@ -1,0 +1,1 @@
+# Nmap 6.40 scan initiated Wed Oct 15 09:39:49 2025 as: nmap -sS -sV -p- -T4 -oN day3-nmap/full_svc_scan.txt 192.168.1.1

@@ -1,0 +1,19 @@
+Netid  State      Recv-Q Send-Q Local Address:Port               Peer Address:Port              
+udp    UNCONN     0      0         *:5353                  *:*                   uid:70 ino:21120 sk:ffff999ac13f9540 <->
+udp    UNCONN     0      0      192.168.122.1:53                    *:*                   ino:36566 sk:ffff999ac13faec0 <->
+udp    UNCONN     0      0      *%virbr0:67                    *:*                   ino:36563 sk:ffff999ac13f8880 <->
+udp    UNCONN     0      0         *:68                    *:*                   ino:26113 sk:ffff999ac13faa80 <->
+udp    UNCONN     0      0         *:111                   *:*                   ino:20499 sk:ffff999ac13f8cc0 <->
+udp    UNCONN     0      0         *:883                   *:*                   ino:20610 sk:ffff999ac13f9100 <->
+udp    UNCONN     0      0         *:51421                 *:*                   uid:70 ino:21121 sk:ffff999ac13f9980 <->
+udp    UNCONN     0      0      [::]:111                [::]:*                   ino:20612 sk:ffff9999b2f88000 v6only:1 <->
+udp    UNCONN     0      0      [::]:883                [::]:*                   ino:20613 sk:ffff9999b2f884c0 v6only:1 <->
+tcp    LISTEN     0      128       *:111                   *:*                   ino:20611 sk:ffff9999b2f80000 <->
+tcp    LISTEN     0      5      192.168.122.1:53                    *:*                   ino:36567 sk:ffff9999b2f826c0 <->
+tcp    LISTEN     0      128       *:22                    *:*                   ino:27616 sk:ffff9999b2f807c0 <->
+tcp    LISTEN     0      128    127.0.0.1:631                   *:*                   ino:28122 sk:ffff9999b2f80f80 <->
+tcp    LISTEN     0      100    127.0.0.1:25                    *:*                   ino:29295 sk:ffff9999b2f81740 <->
+tcp    LISTEN     0      128    [::]:111                [::]:*                   ino:20614 sk:ffff9999b2f90000 v6only:1 <->
+tcp    LISTEN     0      128    [::]:22                 [::]:*                   ino:27965 sk:ffff9999b2f90840 v6only:1 <->
+tcp    LISTEN     0      128       [::1]:631                [::]:*                   ino:28121 sk:ffff9999b2f91080 v6only:1 <->
+tcp    LISTEN     0      100       [::1]:25                 [::]:*                   ino:29296 sk:ffff9999b2f918c0 v6only:1 <->
